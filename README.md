@@ -2,6 +2,7 @@
 This database covers the top five industries that students with business administration degree choose to work for.
 
 The database include five columns of data: Industry Name, Population Count of the industry, Population Growth (in percentages), Average wage of the industry, wage Growth (in percentages.)
+  
   Triggers 
     The first triggers is tr_TFPContent_ins, which is a trigger for inserting data into all tables at once.
     The second trigger is tr_TFPContent_del, which is a trigger for viewing the content that was deleted by the user.
